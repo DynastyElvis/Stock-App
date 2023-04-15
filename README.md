@@ -81,10 +81,27 @@ This application can assist users in managing their inventory in an easy and org
 
 
 ### Thanks 
-- Support me with a cup of coffee and other snacks [here ..](https://saweria.co/orabdillh)
-- Don't forget to give me star in this repository 🙏🏻🙏🏻
-- See my other projects on instagram [@or_abdillh](http://www.instagram.com/or_abdillh)
+<!-- social media connecting shield -->
+KIPKEMOI ELVIS 
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
 
-[Oka R Abdillah](http://github.com/or-abdillh)
-<br>
-Last edited on : 30/10/2021
+![Github Banner](https://github.com/DynastyElvis/React-Music-Player/blob/master/public/dashboard.png)
+
+<!-- my social media links -->
+
+[instagram-url]: https://www.instagram.com/dynastyelvis/
+[twitter-url]: https://twitter.com/Dev_Rono
+[linkedin-url]: https://www.linkedin.com/in/kipkemoi-elvis-aa3548209
+[github-url]: https://github.com/DynastyElvis
+
+<!-- shield icon links -->
+
+
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+
