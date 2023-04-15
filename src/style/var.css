@@ -1,0 +1,34 @@
+/* Variabel colors */
+:root {
+   --prussian-blue: #272743;
+   --alice-blue: #E3F5F5;
+   --pale-blue: #BAE8E8;
+   --celuican: #2D698D;
+}
+
+/* Class for use color */
+.bg-prussian-blue {
+   background: var(--prussian-blue);
+}
+
+.bg-pale-blue {
+   background: var(--pale-blue);
+}
+
+.bg-celuican {
+   background: var(--celuican);
+}
+
+.bg-alice-blue {
+   background: var(--alice-blue);
+}
+
+.bg-wallpaper {
+   background-image: linear-gradient(
+     to bottom, #536976, #292E49
+   );
+}
+
+.text-prussian-blue {
+   color: var(--prussian-blue);
+}
