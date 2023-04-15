@@ -88,8 +88,6 @@ KIPKEMOI ELVIS
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Github Banner](https://github.com/DynastyElvis/React-Music-Player/blob/master/public/dashboard.png)
-
 <!-- my social media links -->
 
 [instagram-url]: https://www.instagram.com/dynastyelvis/
